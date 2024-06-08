@@ -9,8 +9,7 @@
     "build": "rollup -c",
     "lint": "eslint . --ext .ts",
     "format": "prettier --write .",
-    "docs": "typedoc --out docs src",
-    "prepare": "husky install"
+    "docs": "typedoc --out docs src"
   },
   "keywords": [],
   "author": "",
